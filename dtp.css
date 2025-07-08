@@ -1,0 +1,33 @@
+body {
+    background-color: #0d0d0d;
+    color: #EAEAEA;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    
+}
+
+a {
+    color: #7C3AED;
+}
+
+h1, h2 {
+    color: #7C3AED;
+    text-align: center;
+}
+
+.highlight {
+    color: #D72638;
+}
+
+#title {
+    color: #EAEAEA;
+}
+
+q {
+    color: #805B87;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
