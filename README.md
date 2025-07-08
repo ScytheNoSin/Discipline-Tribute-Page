@@ -53,9 +53,7 @@ And in time, you realize: the pain of discipline was never pain at all — it wa
 
 ## 🖼️ Screenshot
 
-![Screenshot of the Discipline Tribute Page](screenshot.png)
-
-> Make sure the image file is in your repo and named exactly as shown above.
+![Screenshot of the Discipline Tribute Page](screenshotdiscipline.png)
 
 ---
 
